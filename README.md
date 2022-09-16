@@ -5,7 +5,8 @@
 </h1>
 
 <p align="center">
-  Procedural account generation
+  Procedural account generation <br>
+  <img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/demo.gif" height="200" />
 </p>
 
 <h2 align="center">Download the app</h2>

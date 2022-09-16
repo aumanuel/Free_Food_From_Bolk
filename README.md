@@ -1,5 +1,3 @@
-# Free_Food_From_Bolk
-
 <h1 align="center">Free Food From Bolk</h1>
 
 <p align="center">

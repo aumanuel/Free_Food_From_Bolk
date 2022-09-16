@@ -10,7 +10,7 @@
 
 <h2 align="center">Download the app</h2>
 <p align="center">
-  
+  <img width="300" src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/QRCode.png">
   <br>
   <br>
 </p>

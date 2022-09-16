@@ -1,5 +1,6 @@
 <h1 align="center">
   Free Food From Bolk <br>
+  <br>
   <img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/sausage.gif" height="200" />
 </h1>
 

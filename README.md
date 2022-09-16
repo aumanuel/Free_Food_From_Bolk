@@ -1,5 +1,7 @@
-<h1 align="center">Free Food From Bolk</h1>
-<img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/sausage.gif" height="40" />
+<h1 align="center">
+  Free Food From Bolk
+  <img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/sausage.gif" height="120" />
+</h1>
 
 <p align="center">
   Procedural account generation

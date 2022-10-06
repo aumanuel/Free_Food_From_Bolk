@@ -4,10 +4,10 @@
   <img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/sausage.gif" height="200" />
 </h1>
 
-<p align="center">
-  Step 1 : Create a new account
+<h3 align="center">
+  Step 1 : Create a new account <br>
   Step 2 : Enjoy the free 4€
-</p>
+</h3>
 
 <p align="center">
   Procedural account generation <br>

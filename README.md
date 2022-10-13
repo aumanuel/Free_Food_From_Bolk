@@ -7,6 +7,9 @@
 <p align="center">
   Procedural account generation <br>
   <br>
+  Step 1 : Push the "+" button to create a new account <br>
+  Step 2 : Enjoy the free 4€ <br>
+  <br>
   <img src="https://github.com/aumanuel/free_food_from_bolk/blob/main/assets/demo.gif" width="300" />
 </p>
 
